@@ -1,5 +1,7 @@
+
 # This is my HW12
 ## Section 1: SELECT
+**All the queries are in query.txt**
 
 Revising the select query 1:
 ![Revising the select query 1:](./section1/1.png)
@@ -12,7 +14,7 @@ Select all:
 
 Select by ID:
 ![Select by ID:](./section1/4.png)
-
+___
 ## Section 2: 
 
 Weather Observation Station 3:
@@ -26,7 +28,7 @@ Employee Names:
 Employee Salaries:
 ![Employee Salaries:](./section2/3.png)
 
-
+___
 ## Section 3: Aggregation
 
 The Count Function:  
@@ -44,4 +46,15 @@ Average Population:
 
 Population Density Difference:   
 ![Population Density Difference:](./section3/5.png)
+___
 
+## Section 4 : Join
+
+African Cities:  
+![African Cities](./section4/1.png)
+
+Population Census:
+![Population Census](./section4/2.png)
+
+Average Population of Each Continent: 
+![Average Population of Each Continent](./section4/3.png)
