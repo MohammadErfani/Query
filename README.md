@@ -1,5 +1,5 @@
 # This is my HW12  
-## Section 1: SELECT
+## Section 2: 
 
 Weather Observation Station 3:
 ![Weather Observation Station 3:](./section2/1.png)
